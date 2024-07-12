@@ -88,3 +88,14 @@
 .main-content .box .box-content .content p{
     text-align: justify;
 }
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(166, 229, 242);
+    margin-top: 10px;
+    width: 100%;
+}
+.contact .con{
+    margin-left: 15px;
+}
